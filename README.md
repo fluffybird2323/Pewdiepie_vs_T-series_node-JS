@@ -4,4 +4,6 @@ Simultanneously check suscriber counts of tseries and pewdiepie via the terminal
 #Try it yourself
 1)Download all files in a folder
 2)open the folder in terminal
-3) Run :```javascript node quickstart.js
+3) Run :
+```javascript 
+    node quickstart.js
